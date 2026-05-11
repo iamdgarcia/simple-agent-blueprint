@@ -111,6 +111,8 @@ After deployment, you can:
 
 ## Course Connection
 
+📚 **[Course Repository](https://github.com/iamdgarcia/tlc_agents_training)** — Access the full Agentic AI for Beginners course materials
+
 This blueprint directly implements the agent architecture taught in:
 - **Module 1.1: The Agent Loop (Perception, Reasoning, Action, Memory)**
 - **Module 1.2: Agent Reasoning & Prompt Engineering**
@@ -128,7 +130,7 @@ You can extend this to:
 ## Support
 
 For issues or questions:
-- Refer to the course materials in tlc_agents_training and tlc_course
+- Access the [full course repository](https://github.com/iamdgarcia/tlc_agents_training) on GitHub
 - Check Netlify Functions documentation: https://docs.netlify.com/functions/
 - Review the original agent implementation concepts
 
